@@ -1,4 +1,4 @@
-## This is a working setup for Jest + react-testing-library
+## This is a working setup for Jest + react-testing-library with TypeScript
 
 What I've added:
 ```
